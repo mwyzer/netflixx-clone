@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 https://github.com/mwyzer/netflixx-clone/blob/main/Progress.png
-[![name](https://github.com/mwyzer/blob/master/Progress.png?raw=true)]
+![Progress](Progress.jpg]
